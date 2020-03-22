@@ -6,12 +6,13 @@ twitter_username: jonthebastard
 github_username: jonthebastard
 minimal_mistakes_skin: dark
 search: true
+repository: jonthebastard/jonthebastard.github.io
 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 permalink: /:categories/:title/
-paginate: 8
+paginate: 5
 paginate_path: /page:num/
 timezone: America/Los_Angeles
 
